@@ -1,4 +1,4 @@
-# landing-page
+#hero-landing-page
 A hero landing page created using HTML and CSS. Made for a faux subsciption service called Cheese Club and features a CSS animated zoom-in upon page load,
 as well as a button that changes colors when hovered with the cursor.
 
